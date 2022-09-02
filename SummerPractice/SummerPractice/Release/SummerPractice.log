@@ -1,0 +1,14 @@
+﻿  SummerPractice.cpp
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(154,31): warning C4305: =: усечение из "int" в "char"
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(154,27): warning C4309: =: усечение константного значения
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(165,31): warning C4305: =: усечение из "int" в "char"
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(165,27): warning C4309: =: усечение константного значения
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(176,31): warning C4305: =: усечение из "int" в "char"
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(176,27): warning C4309: =: усечение константного значения
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(212,5): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(201,9): warning C4101: EndBuff: неиспользованная локальная переменная
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(297,32): warning C4101: buffer2: неиспользованная локальная переменная
+C:\Users\Konstantin\source\repos\SummerPractice\SummerPractice\SummerPractice.cpp(332,32): warning C4101: buffer2: неиспользованная локальная переменная
+SummerPractice.obj : error LNK2001: неразрешенный внешний символ _mysql_real_connect@32.
+SummerPractice.obj : error LNK2001: неразрешенный внешний символ _mysql_init@4.
+C:\Users\Konstantin\source\repos\SummerPractice\Release\SummerPractice.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
